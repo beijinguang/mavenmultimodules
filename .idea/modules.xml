@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/frog-common/frog-common.iml" filepath="$PROJECT_DIR$/frog-common/frog-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frog-persist/frog-persist.iml" filepath="$PROJECT_DIR$/frog-persist/frog-persist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frog-service/frog-service.iml" filepath="$PROJECT_DIR$/frog-service/frog-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frog-web/frog-web.iml" filepath="$PROJECT_DIR$/frog-web/frog-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenmultimodules.iml" filepath="$PROJECT_DIR$/mavenmultimodules.iml" />
+    </modules>
+  </component>
+</project>
