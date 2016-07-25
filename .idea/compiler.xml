@@ -30,10 +30,10 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="frog-common" target="1.5" />
-      <module name="frog-persist" target="1.5" />
-      <module name="frog-service" target="1.5" />
-      <module name="frog-web" target="1.5" />
-      <module name="mavenmultimodules" target="1.5" />
+      <module name="frog-persist" target="1.6" />
+      <module name="frog-service" target="1.6" />
+      <module name="frog-web" target="1.6" />
+      <module name="mavenmultimodules" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
